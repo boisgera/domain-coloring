@@ -1,6 +1,6 @@
 Domain Coloring
 ================================================================================
 
-<http://boisgera.github.io/domain-coloring/>
+Live Demo: <http://boisgera.github.io/domain-coloring/>
 
 ![Domain Coloring](images/domain-coloring.png)
